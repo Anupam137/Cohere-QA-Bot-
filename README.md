@@ -7,13 +7,9 @@ This repository contains a Python implementation of a Question Answering (QA) bo
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model Architecture](#model-architecture)
 - [How It Works](#how-it-works)
 - [Example Queries](#example-queries)
-- [Documentation](#documentation)
-- [Contributions](#contributions)
-- [License](#license)
 
 ## Installation
 
